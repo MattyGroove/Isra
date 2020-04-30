@@ -2,7 +2,7 @@
 // Basics
 BACKUP ~isra/backup~
 AUTHOR ~Rhaella~
-VERSION ~v2.3~
+VERSION ~v3.2~
 
 
 // Crossplatform var stuff blatantly stolen from cmorgan/gavin/bg1npc!
@@ -29,7 +29,7 @@ END
 END
 
 // --------------------------------------------
-// Isra NPC Mod v2.0
+// Isra NPC Mod v3.2
 // --------------------------------------------
 
 AUTO_TRA ~isra/translations/%s~
@@ -38,7 +38,7 @@ LANGUAGE ~English~
          ~isra/translations/english/setup.tra~
 
 // Component setup
-BEGIN @5 /* Isra NPC Mod for BG:EE, BGT and TuTu */
+BEGIN @5 
 
 
 // Adds custom IsValidForPartyDialogue state used throughout cath
